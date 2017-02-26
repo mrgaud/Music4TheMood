@@ -1,0 +1,21 @@
+#navbar{
+    display: flex;
+    list-style: none;
+    background: #2F4E6F;
+    height: 2.5em;
+}
+.logo{
+    color:#EEE;
+    padding-left: 1em;
+    padding-right: 1em;
+    font-size: 2em;
+}
+.nav-search{
+    height: 2em;
+    width: 40vw;
+    margin-top: .6em;
+    border-radius: .5em;
+    border:0px;
+    outline:none;
+    text-indent: .5em;
+}
